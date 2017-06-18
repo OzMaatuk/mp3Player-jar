@@ -1,0 +1,8 @@
+MIDlet-1: My MP3 Player, /Images/Tunes.png, MainPackage.MyMP3Player
+MIDlet-Jar-Size: 130485
+MIDlet-Jar-URL: MyMP3Player.jar
+MIDlet-Name: MyMP3Player
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
